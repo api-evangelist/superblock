@@ -1,0 +1,67 @@
+{
+    "name": "Superblock",
+    "description": "\ud83d\udcf2 Pushover notifications for Android, iOS, and Desktop - Please use https:\/\/t.co\/IEiBEWqFgX for support",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1294-superblock.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/superblock\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Superblock",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1294-superblock.jpg",
+            "humanURL": "https:\/\/pushover.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/superblock-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/superblock-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.pushover.net\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/pushover.net\/api"
+        },
+        {
+            "type": "Email",
+            "url": "Your-User-Key@api.pushover.net"
+        },
+        {
+            "type": "Email",
+            "url": "support@pushover.net"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pushover"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PushoverApp"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/superblock"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/pushover.net"
+        }
+    ]
+}
